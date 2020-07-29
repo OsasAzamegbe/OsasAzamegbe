@@ -1,4 +1,4 @@
-# Hi, I'm Osas a Software Engineer 👋
+# Hi, I'm Osas, a Software Engineer 👋
 
 ![Image of developer](https://cdn.dribbble.com/users/33385/screenshots/5552349/screen_shot_2018-11-15_at_1.48.20_pm.png)
 
