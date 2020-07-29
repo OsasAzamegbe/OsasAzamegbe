@@ -1,6 +1,6 @@
 ## Hi I'm Osas, a Software Engineer 👋
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of developer](/images/developer_workstations.png)
 
 **What makes me tick you ask? 🤗:**
 
