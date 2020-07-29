@@ -1,6 +1,8 @@
-### Hi I'm Osas, a Software Engineer 👋
+## Hi I'm Osas, a Software Engineer 👋
 
-What makes me tick you ask? 🤗:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+**What makes me tick you ask? 🤗:**
 
 - 👨🏾‍💻 Python 🐍, Django, Django Rest Framework, Flask, JavaScript, Node.JS, MongoDB, SQLite, HTML, CSS, BootStrap.
 - 🔭 I’m currently working on a series of "Retro games 🕹" web apps and other amazing web dev projects!
