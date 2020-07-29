@@ -1,6 +1,6 @@
 # Hi, I'm Osas a Software Engineer 👋
 
-![Image of developer](./images/developer_workstations.png?raw=true "Title")
+![Image of developer](developer_workstations.png?raw=true)
 
 **What makes me tick you ask? 🤗:**
 
