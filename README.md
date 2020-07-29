@@ -1,7 +1,5 @@
-# Hi, I'm Osas a Software Engineer 👋
-
-![Image of developer](./images/developer_workstations.png?raw=true "Title")
-
+# Hi, I'm Osas, a Software Engineer 👋
+![Image of developer](https://github.com/OsasAzamegbe/OsasAzamegbe/blob/master/images/developer_workstations.png?raw=true)
 **What makes me tick you ask? 🤗:**
 
 - 👨🏾‍💻 Python 🐍, Django, Django Rest Framework, Flask, JavaScript, Node.JS, MongoDB, SQLite, HTML, CSS, BootStrap.
