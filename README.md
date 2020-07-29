@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Osas, a Software Engineer 👋
 
-<!--
-**OsasAzamegbe/OsasAzamegbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What makes me tick you ask? 🤗:
 
-Here are some ideas to get you started:
+- 👨🏾‍💻 Python 🐍, Django, Django Rest Framework, Flask, JavaScript, Node.JS, MongoDB, SQLite, HTML, CSS, BootStrap.
+- 🔭 I’m currently working on a series of "Retro games 🕹" web apps and other amazing web dev projects!
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on exciting software engineering projects 🤓.
+- 💬 Ask me about anything!
+- 📫 How to reach me: osas.azamegbe@gmail.com.
+- 😄 Pronouns: Him/He 💆🏾‍♂️.
+- ⚡ Fun fact: When I am not face deep debugging code or playing with APIs, you will catch me playing chess online ♟ or on an adventure with art 🎨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
