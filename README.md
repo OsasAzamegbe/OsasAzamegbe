@@ -1,7 +1,5 @@
 # Hi, I'm Osas, a Software Engineer 👋
-
-![Image of developer](https://cdn.dribbble.com/users/33385/screenshots/5552349/screen_shot_2018-11-15_at_1.48.20_pm.png)
-
+![Image of developer](https://github.com/OsasAzamegbe/OsasAzamegbe/blob/master/images/developer_workstations.png?raw=true)
 **What makes me tick you ask? 🤗:**
 
 - 👨🏾‍💻 Python 🐍, Django, Django Rest Framework, Flask, JavaScript, Node.JS, MongoDB, SQLite, HTML, CSS, BootStrap.
