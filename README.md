@@ -1,4 +1,4 @@
-## Hi I'm Osas, a Software Engineer 👋
+# Hi, I'm Osas a Software Engineer 👋
 
 ![Image of developer](/images/developer_workstations.png)
 
