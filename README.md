@@ -1,4 +1,4 @@
-# Hi, I'm Osas, a Software Engineer 👋
+# Hi, I'm Osas, a Software Engineer 👋🏾
 ![Image of developer](https://github.com/OsasAzamegbe/OsasAzamegbe/blob/master/images/developer_workstations.png?raw=true)
 **What makes me tick you ask? 🤗:**
 
