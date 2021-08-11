@@ -2,8 +2,8 @@
 ![Image of developer](https://github.com/OsasAzamegbe/OsasAzamegbe/blob/master/images/octocat-1607451410050.png?raw=true)
 **What makes me tick you ask? 🤗:**
 
-- 👨🏾‍💻 Python 🐍, Django, Django Rest Framework, Flask, JavaScript, Node.JS, React, MongoDB, SQLite, HTML, CSS, BootStrap, Git.
-- 🔭 I’m currently working on some Node.JS API projects!
+- 👨🏾‍💻 C++ 💻, Python 🐍, Django, Django Rest Framework, Flask, JavaScript, Node.JS, React, MongoDB, SQLite, HTML, CSS, BootStrap, Git.
+- 🔭 I’m currently working on some C++ projects!
 - 👯 I’m looking to collaborate on exciting software engineering projects 🤓.
 - 💬 Ask me about anything!
 - 📫 How to reach me: osas.azamegbe@gmail.com.
