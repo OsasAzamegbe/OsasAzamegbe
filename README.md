@@ -2,7 +2,7 @@
 ![Image of developer](https://github.com/OsasAzamegbe/OsasAzamegbe/blob/master/images/octocat-1607451410050.png?raw=true)
 **What makes me tick you ask? 🤗:**
 
-- Solidity, BlockChain tech, 👨🏾‍💻 C++ 💻, Python 🐍, Django, Django Rest Framework, Flask, JavaScript, Node.JS, React, MongoDB, SQLite, HTML, CSS, BootStrap, Git.
+- Solidity, BlockChain tech, 👨🏾‍💻 C++ 💻, Bash scripting, Python 🐍, Django, Django Rest Framework, Flask, JavaScript/Typescript, Node.JS, React, MongoDB, SQL, HTML, CSS, BootStrap, Git.
 - 🔭 I’m currently working on some web3 projects!
 - 👯 I’m looking to collaborate on exciting software engineering projects 🤓.
 - 💬 Ask me about anything!
